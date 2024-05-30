@@ -9,3 +9,4 @@
 
 ## 🌐Socials
 [<img src="https://i.postimg.cc/kXsGWnnY/telegram-1.png" border="0" alt="telegram-logo"/>](https://t.me/dark_primary)
+[<img src="https://i.postimg.cc/kXsGWnnY/telegram-1.png" border="0" alt="telegram-logo"/>](https://t.me/dark_primary)
