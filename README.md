@@ -1,4 +1,4 @@
-# 🐈‍⬛ darklowlyx ⚫
+# 🐈‍⬛ darklowlyx
 
 
 **`Developer of clear and user-friendly sites (Front-end, UI/UX)`**
