@@ -12,7 +12,7 @@
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=000000)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=FF0000)
-![Canva](https://img.shields.io/badge/-Canva-FF7A73?style=for-the-badge&logo=Canva&logoColor=000000)
+
 
 
 ### Follow me 📲
