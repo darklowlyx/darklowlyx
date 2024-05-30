@@ -15,5 +15,3 @@
 
 
 
-### Follow me 📲
-[![Telegram](https://img.shields.io/badge/-Telegram-007ACC?style=for-the-badge&logo=Telegram&logoColor=000000)](https://t.me/dark_primary)
