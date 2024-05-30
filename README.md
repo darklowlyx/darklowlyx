@@ -8,10 +8,7 @@
 ### Language and Frameworks 📝
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 
-### Tools ⚒️
 
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=000000)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=FF0000)
 
 
 
