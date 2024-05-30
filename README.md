@@ -8,4 +8,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git,bootstrap,figma,vscode,obsidian)](https://skillicons.dev)
 
 ## 🌐Socials
-[<img src="https://jumpshare.com/v/uM8zBVOiYMjAdk968G8k" border="0" alt="telegram-logo"/>](https://t.me/dark_primary)
+[<img src="https://i.postimg.cc/QC55jv1G/telegram-1.png" border="0" alt="telegram-logo"/>](https://t.me/dark_primary)
