@@ -6,6 +6,3 @@
 
 ## 🧑🏻‍💻Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git,figma,vscode)](https://skillicons.dev)
-
-## 🌐Socials
-[<img src="https://i.postimg.cc/cL8q0m57/telegram-1.png" border="0" alt="telegram-logo"/>](https://t.me/dark_primary)
