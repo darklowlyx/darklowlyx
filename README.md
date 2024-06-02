@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img src="img/7he R4.gif" alt="Descriptive Text for the GIF" />
+        <img style="width: 320px; height: 180px;" src="img/7he R4.gif" alt="Descriptive Text for the GIF" />
     </p>
 </div>
 
