@@ -1,14 +1,9 @@
 <div align="left">
     <p>
         <img style="width: 320px; height: 180px;" src="img/7he R4.gif" alt="Descriptive Text for the GIF" />
+				<img style="width: 320px; height: 180px;" src="img/7he R42.gif" alt="Descriptive Text for the GIF" />
     </p>
 </div>
-<div align="right">
-    <p>
-        <img style="width: 320px; height: 180px;" src="img/7he R42.gif" alt="Descriptive Text for the GIF" />
-    </p>
-</div>
-
 
 # Hey there 👋
 
